@@ -20,7 +20,7 @@ Open "The Mechanics of Steins;Gate v___.pdf".
 
 1. Introduction - Summarises important topics on which Steins;Gate was based.
 2. Mechanics - The core mechanics of Steins;Gate, with evidence and example situations.
-3. Theory - A final, more interpretation-based mechanic, with evidence and example situations. 
+3. Theory - One final, more interpretation-based mechanic, with evidence and example situations. 
 4. Misconceptions - Addresses common misunderstandings about Steins;Gate.
 
 
