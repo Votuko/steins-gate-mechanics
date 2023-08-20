@@ -1,2 +1,24 @@
 # The Mechanics of Steins;Gate
+
 A complete guide to the mechanics of Steins;Gate.
+
+We describe the rules as intended by the writers, and backed up with evidence from the story and elsewhere.
+
+Major and minor events of the story are explained, including some that have not been explained previously (in English at least).
+
+
+
+
+## To view
+Open "The Mechanics of Steins;Gate v___.pdf".
+
+(Download file for functional hyperlinks and clickable section numbers.)
+
+
+
+## Contents
+
+1. Introduction - Summarises important topics on which Steins;Gate was based.
+2. Mechanics - The core mechanics of Steins;Gate, with evidence and example situations.
+3. Theory - A final, more interpretation-based mechanic, with evidence and example situations. 
+4. Misconceptions - Addresses common misunderstandings about Steins;Gate.
