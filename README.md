@@ -1,6 +1,6 @@
 # The Mechanics of Steins;Gate
 
-A complete guide to the mechanics of Steins;Gate.
+A complete guide to the mechanics of Steins;Gate and its spin-offs.
 
 We describe the rules as intended by the writers, and backed up with evidence from the story and elsewhere.
 
@@ -22,3 +22,10 @@ Open "The Mechanics of Steins;Gate v___.pdf".
 2. Mechanics - The core mechanics of Steins;Gate, with evidence and example situations.
 3. Theory - A final, more interpretation-based mechanic, with evidence and example situations. 
 4. Misconceptions - Addresses common misunderstandings about Steins;Gate.
+
+
+## Prerequisites
+
+We assume that the reader has experienced the Steins;Gate and Steins;Gate 0 visual novels and anime.
+
+Spoilers for other Steins;Gate spin-offs are not included, although this guide is also consistent with this content.
