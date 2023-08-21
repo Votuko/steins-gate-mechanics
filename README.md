@@ -28,4 +28,4 @@ Open "The Mechanics of Steins;Gate v___.pdf".
 
 We assume that the reader has experienced the Steins;Gate and Steins;Gate 0 visual novels and anime.
 
-Spoilers for other Steins;Gate spin-offs are not included, although this guide is also consistent with this content.
+Spoilers for other Steins;Gate spin-offs are not included, although the guide is consistent with this content.
